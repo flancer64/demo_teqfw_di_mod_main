@@ -1,0 +1,27 @@
+{
+  "name": "@flancer64/demo_teqfw_di_mod_main",
+  "version": "0.1.0",
+  "description": "Main module for demo app (@flancer64/demo_teqfw_di).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flancer64/demo_teqfw_di_mod_main.git"
+  },
+  "keywords": [
+    "es6",
+    "module loading",
+    "dependency injection",
+    "demo"
+  ],
+  "author": "Alex Gusev <alex@flancer64.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/flancer64/demo_teqfw_di_mod_main/issues"
+  },
+  "homepage": "https://github.com/flancer64/demo_teqfw_di_mod_main#readme",
+  "dependencies": {
+  }
+}
