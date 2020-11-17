@@ -1,4 +1,4 @@
-// shared code cannot use traditional npm packages
+// shared code cannot use traditional npm packages and cannot use browser API
 export default class Demo_Main_Shared {
     // function imported from Demo_Main_Plugin_Shared
     fnPluginShared

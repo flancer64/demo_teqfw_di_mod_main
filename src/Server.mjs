@@ -1,4 +1,4 @@
-// server side code can use traditional npm packages
+// server side code can use traditional npm packages but cannot use browser API
 import $path from 'path';
 import $url from 'url';
 
